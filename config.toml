@@ -1,0 +1,4 @@
+baseURL = 'https://ece385docs.web.illinois.edu'
+languageCode = 'en-us'
+title = 'ECE385 Docs'
+theme = 'hugo-book'
