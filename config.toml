@@ -2,3 +2,14 @@ baseURL = 'https://ece385docs.web.illinois.edu'
 languageCode = 'en-us'
 title = 'ECE385 Docs'
 theme = 'hugo-book'
+
+enableGitInfo = true
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSearch = true
+
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 6

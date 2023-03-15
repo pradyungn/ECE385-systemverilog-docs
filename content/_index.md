@@ -1,6 +1,7 @@
 ---
 title: Home
 type: docs
+bookToC: false
 ---
 
 # ECE 385 CA Documentation and Resources
