@@ -1,0 +1,4 @@
+#!/bin/bash
+
+hugo && rsync -avz --delete public/ 385docs:~/public_html/
+scp ./.htaccess 385docs:~/public_html/

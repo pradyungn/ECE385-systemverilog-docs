@@ -11,7 +11,7 @@ This is a resource that is constantly being updated and revised. As such, there 
 
 ## Why does this exist?
 
-Until now, the main way that students have learned SystemVerilog has been through some lecture slides and using the LRM. By creating a centralized resource, we hope to reduce the number of times you have to ask "hey, where'd this snippet come from?".
+Until now, the main way that students have learned SystemVerilog and verification skills has been through some lecture slides and using the LRM. By creating a centralized resource, we hope to reduce the number of times you have to ask "hey, where'd this snippet come from?".
 
 <--->
 
