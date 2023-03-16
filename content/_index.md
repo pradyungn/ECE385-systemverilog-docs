@@ -6,6 +6,8 @@ bookToC: false
 
 # ECE 385 CA Documentation and Resources
 
+> Search is a bit buggy at the moment - we're working on it!
+
 This is a resource that is constantly being updated and revised. As such, there **_may be mistakes in these pages_**. If something you do after using it here isn't working, please make a cursory google search to crosscheck whatever it is you did before flagging down a CA.
 
 {{< columns >}}
