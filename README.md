@@ -2,6 +2,8 @@
 
 Online website with SystemVerilog and design testing documentation written by CAs.
 
+> Search will not work if you clone this repo and its submodule - delete the line about 'content nil' in assets/search-data.json within the hugo-book theme. This will cause result matching for empty docs, but it _works_ to a degree so it doesn't really matter.
+
 ## Submitting PRs with new content
 
 Content on the website is written as markdown files stored in the content/docs folder. Creating a file in there should immediately be reflected in the local build with `hugo server`.
