@@ -1,7 +1,7 @@
 ---
 title: SystemVerilog
 type: docs
-weight: 20
+weight: 1
 bookCollapseSection: true
 ---
 
